@@ -1,0 +1,4 @@
+#Sat Sep 24 11:22:44 IST 2022
+base.0=/home/agilan/StudioProjects/my_notes/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

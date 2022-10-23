@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67247946114",
+    "project_id": "mynotes-app-by-rushikesh",
+    "storage_bucket": "mynotes-app-by-rushikesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67247946114:android:fc27ab45cfcadfa0b3379b",
+        "android_client_info": {
+          "package_name": "com.example.my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67247946114-v6tst3rti18egrui19niadek8tpu9917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DgyN4KOkTrj7UpF7cJBUF1ndzfbp6LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67247946114-v6tst3rti18egrui19niadek8tpu9917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

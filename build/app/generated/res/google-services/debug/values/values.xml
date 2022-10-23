@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">67247946114-v6tst3rti18egrui19niadek8tpu9917.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">67247946114</string>
+    <string name="google_api_key" translatable="false">AIzaSyC8DgyN4KOkTrj7UpF7cJBUF1ndzfbp6LM</string>
+    <string name="google_app_id" translatable="false">1:67247946114:android:fc27ab45cfcadfa0b3379b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC8DgyN4KOkTrj7UpF7cJBUF1ndzfbp6LM</string>
+    <string name="google_storage_bucket" translatable="false">mynotes-app-by-rushikesh.appspot.com</string>
+    <string name="project_id" translatable="false">mynotes-app-by-rushikesh</string>
+</resources>
